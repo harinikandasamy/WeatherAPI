@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: WeatherAPI
+  annotations:
+    github.com/project-slug: harinikandasamy/WeatherAPI
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Harini Kandasamy
